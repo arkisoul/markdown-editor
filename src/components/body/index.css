@@ -1,0 +1,13 @@
+.hero.is-fullheight .hero-body, .hero.is-halfheight .hero-body {
+    align-items: stretch;
+    height: 100%;
+}
+.columns {
+    height: 100%;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+}
+.column {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
